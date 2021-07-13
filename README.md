@@ -1,6 +1,6 @@
 # Hi, there
 
-Is it too late for have a coffee ☕️ ?
+Why so serious? Have a coffee ☕️ ?
 
 ## About Me
 
