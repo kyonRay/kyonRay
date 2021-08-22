@@ -8,4 +8,4 @@ Why so serious? Have a coffee ☕️ ?
 - Member dev of open-source cross-chain blockchain interoperable platform [WeCross](https://github.com/WeBankBlockchain/WeCross).
 - Go big or go home.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact&hide=shell,html)
