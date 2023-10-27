@@ -8,6 +8,10 @@ Why so serious? Have a coffee ☕️ ?
 - Member dev of open-source cross-chain blockchain interoperable platform [WeCross](https://github.com/WeBankBlockchain/WeCross).
 - Go big or go home.
 
+![aboutme](https://github-readme-stats.vercel.app/api?username=kyonRay&count_private=true&show_icons=true)
+
+<!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact&hide=shell,html) -->
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -60,7 +64,3 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-![aboutme](https://github-readme-stats.vercel.app/api?username=kyonRay&count_private=true&show_icons=true)
-
-<!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact&hide=shell,html) -->
