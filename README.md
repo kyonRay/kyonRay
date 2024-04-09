@@ -13,17 +13,17 @@ Why so serious? Have a coffee ☕️ ?
 <!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact&hide=shell,html) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4820 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-🌆 Daytime                549 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-🌃 Evening                6225 commits        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌙 Night                  9688 commits        ███████████░░░░░░░░░░░░░░   45.52 % 
+🌞 Morning                4895 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌆 Daytime                557 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+🌃 Evening                6323 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌙 Night                  9830 commits        ███████████░░░░░░░░░░░░░░   45.50 % 
 ```
 
 
@@ -31,10 +31,15 @@ Why so serious? Have a coffee ☕️ ?
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 10 mins        █████████████████░░░░░░░░   68.27 % 
+Other                    27 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Solidity                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Solidity file            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             1 hr 13 mins        ██████████████████░░░░░░░   71.15 % 
+VS Code                  29 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
 ```
 
 **I Mostly Code in Java** 
