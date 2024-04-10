@@ -13,17 +13,17 @@ Why so serious? Have a coffee ☕️ ?
 <!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyonRay&layout=compact&hide=shell,html) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4895 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌞 Morning                4895 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
 🌆 Daytime                557 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-🌃 Evening                6323 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-🌙 Night                  9830 commits        ███████████░░░░░░░░░░░░░░   45.50 % 
+🌃 Evening                6325 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌙 Night                  9830 commits        ███████████░░░░░░░░░░░░░░   45.49 % 
 ```
 
 
